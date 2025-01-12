@@ -1,6 +1,6 @@
 {
-	"name": "purple-ish-theme",
-	"displayName": "purple-ish-theme",
+	"name": "purple-cat-theme",
+	"displayName": "purple cat theme",
 	"description": "just another purple theme",
 	"version": "1.0.0",
 	"publisher": "paumadi",
@@ -117,46 +117,36 @@
 		},
 		{
 			"scope": [
-				"entity.name.function.python",
-				"entity.name.function.go",
-				"support.function.python",
-				"support.function.go"
+				"source.css entity.name.tag",
+				"source.css support.type.property-name",
+				"source.css keyword.control.at-rule"
 			],
 			"settings": {
-				"foreground": "#4AAFD1",
-				"fontStyle": "italic"
+				"foreground": "#4AAFD1"
 			}
 		},
 		{
 			"scope": [
-				"keyword.control.flow.python",
-				"keyword.control.flow.go",
-				"keyword.control.import.go",
-				"keyword.control.import.python"
+				"source.css support.constant.property-value",
+				"source.css constant.other.color.rgb-value",
+				"source.css constant.other.unit"
 			],
 			"settings": {
-				"foreground": "#FF77AA",
-				"fontStyle": "bold"
+				"foreground": "#72C376"
 			}
 		},
 		{
 			"scope": [
-				"variable.parameter.python",
-				"variable.parameter.go",
-				"variable.language.python",
-				"variable.language.go"
+				"source.json constant.language",
+				"source.json support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#72C376",
-				"fontStyle": "italic"
+				"foreground": "#FF77AA"
 			}
 		},
 		{
 			"scope": [
-				"string.quoted.single.python",
-				"string.quoted.double.python",
-				"string.quoted.double.go",
-				"string.quoted.single.go"
+				"source.json string.quoted.double.json"
 			],
 			"settings": {
 				"foreground": "#C5A7C3"
@@ -164,22 +154,10 @@
 		},
 		{
 			"scope": [
-				"constant.numeric.python",
-				"constant.numeric.go"
+				"source.json punctuation.separator.key-value"
 			],
 			"settings": {
-				"foreground": "#65DBFF",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"support.type.python",
-				"support.type.go"
-			],
-			"settings": {
-				"foreground": "#BCA8BF",
-				"fontStyle": "italic"
+				"foreground": "#65DBFF"
 			}
 		}
 	]
