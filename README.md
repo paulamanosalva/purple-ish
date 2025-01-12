@@ -1,4 +1,4 @@
-# purple-ish README
+# purple-cat-theme README
 
 hope you like it!
 
