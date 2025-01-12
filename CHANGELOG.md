@@ -4,6 +4,6 @@ All notable changes to the "purple-ish" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Released]
 
-- Initial release
+- This extension was renamed from purple-ish-theme to purple cat theme.

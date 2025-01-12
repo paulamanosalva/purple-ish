@@ -2,7 +2,7 @@
   "name": "purple-cat-theme",
   "displayName": "purple cat theme",
   "description": "just another theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "paumadi", 
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "purple-ish",
+        "label": "purple-cat",
         "uiTheme": "vs-dark",
         "path": "./themes/purple-ish-color-theme.json"
       }
