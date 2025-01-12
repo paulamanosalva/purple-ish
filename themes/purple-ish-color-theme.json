@@ -4,6 +4,7 @@
  	"description": "just another purple theme",
   	"version": "1.0.0",
   	"publisher": "paumadi",
+	"icon": "icon.webp", 
   	"engines": {
     	"vscode": "^1.70.0"
  	},
