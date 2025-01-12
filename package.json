@@ -3,12 +3,18 @@
   "displayName": "purple-ish",
   "description": "just another theme",
   "version": "0.0.1",
+  "publisher": "your-publisher-id", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulamanosalva/purple-ish.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.webp",
   "contributes": {
     "themes": [
       {
