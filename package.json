@@ -1,0 +1,21 @@
+{
+  "name": "purple-ish",
+  "displayName": "purple-ish",
+  "description": "just another theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "purple-ish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-ish-color-theme.json"
+      }
+    ]
+  }
+}
