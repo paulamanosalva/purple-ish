@@ -1,5 +1,12 @@
 {
 	"name": "purple-ish",
+	"displayName": "purple-ish",
+ 	"description": "just another purple theme",
+  	"version": "1.0.0",
+  	"publisher": "paumadi",
+  	"engines": {
+    	"vscode": "^1.70.0"
+ 	},
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
