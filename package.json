@@ -1,8 +1,8 @@
 {
-  "name": "purple-ish",
-  "displayName": "purple-ish",
+  "name": "purple-ish-theme",
+  "displayName": "purple-ish-theme",
   "description": "just another theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "paumadi", 
   "repository": {
     "type": "git",
